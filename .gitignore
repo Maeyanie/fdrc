@@ -1,0 +1,5 @@
+build*/*
+draco*/*
+install*/*
+*.pro.user
+*.qmake.stash
