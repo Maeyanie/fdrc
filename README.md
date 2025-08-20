@@ -49,6 +49,7 @@ plus [`cmake`](https://cmake.org/) for building.
 
 Note: The below instructions are similar to `fstl` but not identical.
 `fdrc` migrated from Qt 5 to Qt 6, and also requires `draco` installed in the `fdrc` source directory.
+(I'm aware that's bad practice, I'll fix it and make it a proper package search eventually.)
 
 ### Linux
 
